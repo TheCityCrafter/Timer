@@ -1,0 +1,10 @@
+#All of these settings can be changed ingame. Only change this values if you know what your doing.
+timer-shown: true
+timer-mode: countdown #wip
+timer-running: false
+timer-color: gold
+current-time:
+  seconds: 0
+  minutes: 0
+  hours: 0
+  days: 0

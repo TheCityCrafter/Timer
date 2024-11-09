@@ -2,3 +2,8 @@ name: Timer
 version: '1.0-SNAPSHOT'
 main: thecitycrafter.timer.Main
 api-version: '1.21'
+commands:
+  timer:
+    description: Controls the timer
+    usage: /timer
+    permission: timer.timer
